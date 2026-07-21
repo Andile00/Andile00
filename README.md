@@ -49,7 +49,7 @@ My Goals (2026–2027)
 - Build a strong GitHub portfolio  
 - Learn backend + cybersecurity  
 - Get into the best tech company
-- Be innovatibe and creative  
+- Be innovative and creative  
 
 ---
 
