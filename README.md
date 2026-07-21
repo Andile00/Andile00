@@ -14,6 +14,7 @@ Hey, I’m Andile Dlamini
 - Build templates for resale  
 - Work with MySQL + backend basics  
 - Design websites for clients
+- AZ-900 Certified 
 
 ---
 
