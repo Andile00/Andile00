@@ -14,13 +14,13 @@ Hey, I’m Andile Dlamini
 - Build templates for resale  
 - Work with MySQL + backend basics  
 - Design websites for clients
-- AZ-900 Certified 
+- FNB APP OF THE YEAR Certified
 
 ---
 
 Tech Stack
 **Frontend:**  
-HTML5 • CSS3 
+HTML5 • CSS3 • JavaScript
 
 **Backend:**  
 MySQL (beginner)
@@ -55,6 +55,6 @@ My Goals (2026–2027)
 ---
 
 Contact Me
-Email: 605098@student.belgiumcampus.ac.za
+Email: dlaminiandile007@gmail.com
 🌐 Portfolio Website: 
 
