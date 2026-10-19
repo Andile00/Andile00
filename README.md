@@ -3,7 +3,7 @@ Hey, I’m Andile Dlamini
 🎓 2nd Year Web Development Student @ Belgium Campus ITVersity as of 2026  
 🎂 Born: 22 November 2003  
 📍 South Africa  
-💻 Future Web Development 
+💻 Future Web Developer
 
 
 ---
